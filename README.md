@@ -1,4 +1,4 @@
->> Projeto de Programação Orientada a Objetos
+> Projeto de Programação Orientada a Objetos
 
 desc.>    Projeto simples que busca implementar os conceitos da Programação Orientada a Objetos em Java. O projeto em si busca replicar em console o 
         jogo "The Legend of Zelda: A Link Between Worlds". 
